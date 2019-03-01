@@ -11,3 +11,9 @@ function search(loc, arr, table) {
         search([x, y + 1], arr, table);
     }
 }
+
+//这是从Clone操作里添加的东西
+
+//2019-03-01 14:31:14
+
+//测试，真麻烦
